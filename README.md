@@ -2,6 +2,6 @@
 
 This is a frame work for water pressure data generation.
 
-The detailed framework is written iin the paper under reviewing.
+The detailed framework is under reviewing.
 
 Will update soon.
